@@ -6,15 +6,17 @@ Web application for Denver City Limits. Festival goers can purchase tickets, vie
 
 ## Commands to Run on Local Environment
 
-``` bundle install
+``` 
+    bundle install
 
     npm install --prefix client
-    
+
     rails s
 ```
 
 In a new terminal:
-``` npm start --prefix client
+``` 
+    npm start --prefix client
 ```
 
 
