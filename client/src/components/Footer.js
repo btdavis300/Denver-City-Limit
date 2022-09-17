@@ -18,7 +18,7 @@ function Footer() {
                 </div>
             </div>
             <div id="repo-box">
-                Tools: React, Ruby on Rails, BCrypt, Heroku, Netifly. Github Repo:
+                Tools: React, Ruby on Rails, BCrypt, Heroku. Github Repo:
                 <a className='footer-links' href="https://github.com/Kelan6/Denver-City-Limit/" target="_blank"><img width='30px' height='30px' src={github} alt=''></img></a>
 
             </div>
