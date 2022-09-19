@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.661f73c8.chunk.css",
+    "main.js": "/static/js/main.ee95f373.chunk.js",
+    "main.js.map": "/static/js/main.ee95f373.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.9391c2b8.js",
+    "runtime-main.js.map": "/static/js/runtime-main.9391c2b8.js.map",
+    "static/js/2.d3ae7b6b.chunk.js": "/static/js/2.d3ae7b6b.chunk.js",
+    "static/js/2.d3ae7b6b.chunk.js.map": "/static/js/2.d3ae7b6b.chunk.js.map",
+    "static/js/3.f6b840ed.chunk.js": "/static/js/3.f6b840ed.chunk.js",
+    "static/js/3.f6b840ed.chunk.js.map": "/static/js/3.f6b840ed.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.661f73c8.chunk.css.map": "/static/css/main.661f73c8.chunk.css.map",
+    "static/js/2.d3ae7b6b.chunk.js.LICENSE.txt": "/static/js/2.d3ae7b6b.chunk.js.LICENSE.txt",
+    "static/media/Icon1.b8b09aa6.svg": "/static/media/Icon1.b8b09aa6.svg",
+    "static/media/fest-1.ce62f40a.jpeg": "/static/media/fest-1.ce62f40a.jpeg",
+    "static/media/fest-3.3984d888.jpeg": "/static/media/fest-3.3984d888.jpeg",
+    "static/media/fest4.68877fdc.webp": "/static/media/fest4.68877fdc.webp",
+    "static/media/github.cce7efe7.svg": "/static/media/github.cce7efe7.svg",
+    "static/media/linkedin.67232721.svg": "/static/media/linkedin.67232721.svg",
+    "static/media/profile.33e7df09.png": "/static/media/profile.33e7df09.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9391c2b8.js",
+    "static/js/2.d3ae7b6b.chunk.js",
+    "static/css/main.661f73c8.chunk.css",
+    "static/js/main.ee95f373.chunk.js"
+  ]
+}
