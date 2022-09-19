@@ -1,5 +1,5 @@
 Rails.application.routes.draw do
-  namespace :api do
+  # namespace :api do
   resources :artists, only: [:index, :show, :schedule]
   resources :tickets, only: :create
   resources :festivals
@@ -15,7 +15,7 @@ Rails.application.routes.draw do
   get "/schedule/broncos", to: "artists#broncos"
   get "/schedule/nuggets", to: "artists#nuggets"
   get "/schedule/rockies", to: "artists#rockies"
-end
+# end
 
   # Routing logic: fallback requests for React Router.
   # Leave this here to help deploy your app later!
