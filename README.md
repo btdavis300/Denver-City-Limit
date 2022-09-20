@@ -4,7 +4,7 @@
 
 Web application for Denver City Limits. Festival goers can purchase tickets, view line up and schedule.
 
-##Hosted Site
+## Hosted Site
 https://arcane-mountain-54525.herokuapp.com/
 
 ## Commands to Run on Local Environment
