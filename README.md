@@ -4,12 +4,17 @@
 
 Web application for Denver City Limits. Festival goers can purchase tickets, view line up and schedule.
 
+##Hosted Site
+https://arcane-mountain-54525.herokuapp.com/
+
 ## Commands to Run on Local Environment
 
 ``` 
     bundle install
 
     npm install --prefix client
+    
+    rails db:create db:migrate db:seed
 
     rails s
 ```
