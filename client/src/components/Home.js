@@ -1,8 +1,8 @@
 import React from "react";
 import { Link } from "react-router-dom";
-import fest1 from "../assets/fest-3.jpeg";
-import fest2 from "../assets/fest-1.jpeg";
-import fest4 from '../assets/fest4.webp'
+import fest1 from "../assets/fest-3.png";
+import fest2 from "../assets/fest-1.png";
+import fest4 from '../assets/fest4.png'
 
 
 function Home() {

@@ -7,7 +7,6 @@ body {
 #home-photos2,
 #home-photos3 {
   height: 475px;
-  opacity: 80%;
 }
 
 #home-photos1 {
@@ -609,7 +608,7 @@ input[type="file"] {
 }
 
 .footer-links:hover {
-  opacity: 75%;
+  color: rgb(58, 58, 58);
 }
 
 .error-message {
